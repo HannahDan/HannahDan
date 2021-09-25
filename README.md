@@ -5,6 +5,7 @@
 -->
 Here are some ideas to get you started:
 
-#### - 🔭 I’m currently working on smart eyeglasses that detect obstacles and read text for the visually impaired 
-#### - How to reach me: https://www.linkedin.com/in/han9/
+#### - Current Project: Smart eyeglasses that detect obstacles and read text for the visually impaired 
+#### - Email: hcd38@cornell.edu
+#### - LinkedIn: https://www.linkedin.com/in/han9/
 #### - Pronouns: she/her/hers
