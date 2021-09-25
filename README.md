@@ -6,6 +6,5 @@
 Here are some ideas to get you started:
 
 #### - 🔭 I’m currently working on smart eyeglasses that detect obstacles and read text for the visually impaired 
-#### - 🌱 I’m currently learning JavaScript and SQL
-#### - 📫 How to reach me: https://www.linkedin.com/in/han9/
-#### - 😄 Pronouns: she/her/hers
+#### - How to reach me: https://www.linkedin.com/in/han9/
+#### - Pronouns: she/her/hers
